@@ -10,18 +10,21 @@ html{
 #wrapper{
   max-width: 900px;
   min-width: 320px;
-  margin: auto auto;
+  margin: 10px auto 10px auto;
 
 }
-#wrapper   h1{
+#wrapper   h1,h2{
 font-family: open-sans, sans-serif;
 text-align: center;
   }
+
 
 .home-info{
   border: 3px solid;
 vertical-align: top;
 display: inline-block;
+margin: 10px 0px 10px 0px;
+
 }
 .home-info dl{
    float: left;
@@ -36,6 +39,36 @@ display: inline-block;
 }
 .presentation{
 border: 3px solid;
+margin: 10px 0px 10px 0px;
+
+}
+.exp-info{
+  border: 3px solid;
+  margin: 10px 0px 10px 0px;
+
+
+}
+.comp-info{
+  border: 3px solid;
+  margin: 10px 0px 10px 0px;
+
+}
+.form-info{
+  border: 3px solid;
+  margin: 10px 0px 10px 0px;
+
+
+}
+.hobb-info{
+  border: 3px solid;
+  margin: 10px 0px 10px 0px;
+
+
+}
+footer{
+  border: 3px solid;
+  margin: 10px 0px 10px 0px;
+
 }
 i{
   aria-hidden:"true";
