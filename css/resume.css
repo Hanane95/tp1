@@ -1,0 +1,47 @@
+html, button, input, select, textarea{
+  color:#444;
+
+}
+html{
+  font-size: 1em;
+  line-height: 1.4;
+  background-color: #FFF;
+}
+#wrapper{
+  max-width: 900px;
+  min-width: 320px;
+  margin: auto auto;
+
+}
+#wrapper   h1{
+font-family: open-sans, sans-serif;
+text-align: center;
+  }
+
+.home-info{
+  border: 3px solid;
+vertical-align: top;
+display: inline-block;
+}
+.home-info dl{
+   float: left;
+   width: 50%;
+ }
+ .imgCv{
+   float: right;
+ width: 20%;
+ border: 1px solid #ccc;
+ background-color: white;
+ box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.presentation{
+border: 3px solid;
+}
+i{
+  aria-hidden:"true";
+   font-size:20px;
+}
+a{
+  text-decoration:none;
+
+}
